@@ -7,7 +7,7 @@ Check out the SQL Querries here: [project_sql folder](/porject_sql/)
 # Background
 The job market is constantly changing, and understanding which skills employers are looking for and what they are willing to pay  can give job seekers a significant advantage.
 
-This project analyzes real-world job posting data to identify trends in Data Analyst roles 📊 and provide practical insights that can help job seekers focus their learning and job search efforts.
+This project analyzes real-world job posting data to identify trends in Data Analyst roles  and provide practical insights that can help job seekers focus their learning and job search efforts.
 
 ## Questions We Aim to Answer 
 -  What are the most in-demand skills for Data Analyst jobs?
@@ -23,11 +23,11 @@ This project analyzes real-world job posting data to identify trends in Data Ana
 # Analysis
 Analysis
 
-In this section, I analyzed the job posting dataset using SQL to identify in-demand skills, salary trends, and remote work opportunities for Data Analyst roles. 🔍
+In this section, I analyzed the job posting dataset using SQL to identify in-demand skills, salary trends, and remote work opportunities for Data Analyst roles. 
 
 The analysis is divided into several questions, with each query designed to uncover a specific insight that can help job seekers make better, data-driven career decisions. 
 
-**1. Most In-Demand Skills **
+**1. Most In-Demand Skills**
 
 Identified the skills that appear most frequently in Data Analyst job postings, helping job seekers understand which technical skills are most commonly requested by employers.
 
@@ -52,7 +52,7 @@ ORDER BY
 LIMIT 10
 ```
 
-**2. Highest-Paying Skills **
+**2. Highest-Paying Skills**
 
 Analyzed the average salaries associated with different skills to determine which skills have the highest earning potential in Data Analyst roles.
 
@@ -87,7 +87,7 @@ ORDER BY
 ![Top paying Data Analyst Skills](assests\top_5_data_analyst_skills_dark.png)
 *Bar grpah visualizing the top 5 salaries for data analyst; ChatGPT gnerated this graph from my SQL query results*
 
-**3. Most In-Demand Skills for Remote Jobs **
+**3. Most In-Demand Skills for Remote Jobs**
 
 Focused specifically on remote Data Analyst positions to identify the skills most frequently requested for work-from-home opportunities.
 
@@ -115,7 +115,7 @@ LIMIT 5
 | 5 | Power BI | 39,468 |
 
 
-**4. Best Skills Based on Demand & Salary **
+**4. Best Skills Based on Demand & Salary**
 
 Compared skill demand with average salary to find skills that provide a strong combination of job opportunities and earning potential.
 
@@ -144,7 +144,7 @@ LIMIT 25
 | 4 | Outlook | $80,680 |
 | 5 | Monday.com | $79,000 |
 
-**5. Skills to Learn for Career Growth **
+**5. Skills to Learn for Career Growth**
 
 Combined the insights from the analysis to identify which skills could be most valuable for aspiring Data Analysts, considering both employer demand and salary potential.
 
@@ -211,19 +211,21 @@ LIMIT 25
 
 # What I Learned
 
-1. **SQL & PostgreSQL ** — Learned how to create and connect to databases, write SQL queries, and analyze data using PostgreSQL in VS Code.
+1. **SQL & PostgreSQL** — Learned how to create and connect to databases, write SQL queries, and analyze data using PostgreSQL in VS Code.
 
-2. **Git & GitHub ** — Learned how to use Git for version control, push and pull changes, and organize a GitHub repository into a clear, readable format for users.
+2. **Git & GitHub** — Learned how to use Git for version control, push and pull changes, and organize a GitHub repository into a clear, readable format for users.
 
-3. **Data Analysis ** — Learned how to approach a real-world problem using data, analyze job posting data, and generate meaningful insights to support data-driven decisions.
+3. **Data Analysis** — Learned how to approach a real-world problem using data, analyze job posting data, and generate meaningful insights to support data-driven decisions.
 
-4. **Problem-Solving ** — Improved my ability to break down real-world questions into smaller problems and solve them using SQL and data analysis techniques.
+4. **Problem-Solving** — Improved my ability to break down real-world questions into smaller problems and solve them using SQL and data analysis techniques.
 
 # Conclusions
 
 This project analyzed real-world job posting data to uncover insights about the **Data Analyst job market**. Using SQL and PostgreSQL, I explored skill demand, salary trends, and remote job opportunities to identify which skills are most valuable for aspiring Data Analysts. 
 
 Working on this project helped me strengthen my **SQL, PostgreSQL, Git, GitHub, and problem-solving skills** while giving me hands-on experience with a real-world data analysis problem. It also helped me understand how to turn raw data into **meaningful, actionable insights** and improved my overall approach to data-driven decision-making.
+
+---
 
 **Author:** 
 Praful Gupta
